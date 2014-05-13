@@ -1,0 +1,19 @@
+{
+  "name": "bower.json",
+  "version": "0.0.0",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "dojo": "~1.9.3",
+    "dijit": "~1.9.3",
+    "dojox": "~1.9.3",
+    "bootstrap": "~3.1.1"
+  }
+}
